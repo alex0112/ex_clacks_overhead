@@ -23,7 +23,7 @@ Add the line `plug GNU, names: [...]` to a pipeline like so:
 defmodule MyAppWeb.Router do
   use MyAppWeb, :router
 
-  alias Kepler.Plugs.GNU
+  alias ExClacksOverhead.GNU
 
   pipeline :... do
     plug GNU, names: ["Terry Pratchett"]
