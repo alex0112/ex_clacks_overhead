@@ -1,10 +1,10 @@
-# ExClacksOverhead
+# X-Clacks-Overhead
 
-**TODO: Add description**
+> "We keep that name moving in the Overhead," he said, and it seemed to Princess that the wind in the shutter arrays above her blew more forlornly, and the everlasting clicking of the shutters grew more urgent. "He'd never have wanted to go home. He was a real linesman. His name is in the code, in the wind, in the rigging, and the shutters. Haven't you ever heard the saying ‘Man's not dead while his name is still spoken'?"
+> -- Terry Pratchett. “Going Postal”
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+This package is [available in Hex](https://hex.pm/docs/publish) (the package repository, not the university's thinking engine), and can be installed
 by adding `ex_clacks_overhead` to your list of dependencies in `mix.exs`:
 
 ```elixir
